@@ -9,7 +9,7 @@ Este repositório contém dois projetos de Inteligência Artificial para anális
 
 Este é o vídeo utilizado como fonte de dados para o projeto de Visão Computacional.
 
-[![Assista ao Vídeo]](https://youtube.com/shorts/at-nwAkwYv0)
+[![Assista ao Vídeo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/at-nwAkwYv0)
 
 ## 🚀 Funcionalidades Principais
 
