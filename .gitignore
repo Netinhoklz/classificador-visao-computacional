@@ -1,0 +1,25 @@
+# Ignora arquivos de checkpoint do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignora caches e arquivos de metadados
+.idea/
+.vscode/
+.DS_Store
+
+# Ignora pastas de ambientes virtuais
+venv/
+env/
+
+# Ignora arquivos de compilação do Python
+__pycache__/
+*.pyc
+
+# Ignora arquivos de dados grandes ou gerados que não devem estar no Git
+# Adicione seus próprios padrões aqui, por exemplo:
+# data/
+# models/
+# results/
+
+# Opcional: Ignora os arquivos de saída de cada notebook (se você só se importa com o código)
+# Nota: use com cuidado, pois isso significa que as saídas salvas não serão rastreadas.
+# *.ipynb_checkpoints/*
