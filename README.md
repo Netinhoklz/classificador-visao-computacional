@@ -9,7 +9,7 @@ Este repositório contém dois projetos de Inteligência Artificial para anális
 
 Este é o vídeo utilizado como fonte de dados para o projeto de Visão Computacional.
 
-[![Assista ao Vídeo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_AQUI/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_AQUI)
+[![Assista ao Vídeo]](https://youtube.com/shorts/at-nwAkwYv0)
 
 ## 🚀 Funcionalidades Principais
 
